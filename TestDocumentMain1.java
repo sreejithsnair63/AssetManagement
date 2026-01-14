@@ -1,0 +1,2 @@
+public class TestDocumentMain1 {
+}
